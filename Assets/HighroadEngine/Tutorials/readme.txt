@@ -1,0 +1,1 @@
+This folder contains assets used in the HighRoad Engine documentation available at http://reunono.github.io/HighroadEngine/index.html .

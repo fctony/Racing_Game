@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/HighroadEngine/Common/Scenes/SplashScreen.unity
+  isLoaded: 1
+  isActive: 1
